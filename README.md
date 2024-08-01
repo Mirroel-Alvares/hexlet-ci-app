@@ -1,5 +1,7 @@
 # Example app for CI Hexlet course
 
+![Deploy Status](https://github.com/Mirroel-Alvares/hexlet-ci-app/actions/workflows/hexlet_training/badge.svg)
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
